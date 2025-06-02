@@ -140,7 +140,7 @@
    display: inline-block;
    align-self: flex-start;
      width: auto;
-   height: 35x;
+   height: 35px;
     background-color: red;
     color: white;
     padding: 0.8rem 2.3rem;
@@ -176,7 +176,7 @@
     }
 
     .hero-section-right{
-      position: realtive;
+      position: relative;
       left: 45rem;
 
     }
